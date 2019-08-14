@@ -1,0 +1,48 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #213445;
+    height: max;
+    width: max;
+    font-family: 'Red Hat Text', sans-serif;
+}
+
+main
+{
+    background-color: #384960;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+}
+
+.scrollup
+{
+    text-decoration: none;
+    position: fixed;
+    right: -3px;
+    bottom: 0px;
+    z-index: 100;
+    opacity: 0.5;
+    font-size: 45px;
+    margin-right: 0px;
+}
+
+.scrollup:hover
+{
+    opacity: 1;
+}
+
+object.logo
+{
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.wpis
+{
+    text-align: justify;
+    font-size: 16px;
+}
